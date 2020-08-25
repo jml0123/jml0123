@@ -9,7 +9,10 @@
     <img src="https://img.shields.io/static/v1?labelColor=black&label=CodeSandbox&message=@jml0123&color=black&style=flat-square&logo=codesandbox" alt="Code Sandbox">
   </a>
   <a href="https://open.spotify.com/user/jmlorenzo96" target="_blank">
-    <img src="https://img.shields.io/static/v1?labelColor=black&label=Spotify&message=Tunes&color=1DB954&style=flat-square&logo=spotify" alt="Spotify">
+    <img src="https://img.shields.io/static/v1?labelColor=0f0f0f&label=Spotify&message=Tunes&color=1DB954&style=flat-square&logo=spotify" alt="Spotify">
+  </a>
+  <a href="https://bandcamp.com/miguel12345678" target="_blank">
+    <img src="https://img.shields.io/static/v1?labelColor=darkgrey&label=bandcamp&message=More%20Tunes&color=629aa9&style=flat-square&logo=bandcamp" alt="Bandcamp">
   </a>
 </p>
 
