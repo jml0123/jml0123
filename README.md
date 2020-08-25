@@ -23,7 +23,7 @@
 - I recently completed Thinkful's Software Engineering Flex Program
 - Currently working on <a href="https://heatwav.co">Heat.wav</a>, a location-based music discovery app for independent artists
 
-#### 🧰 Some tools I work with...
+#### 🧰 Some tools I work with on the regular...
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="25px" width="auto"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" height="25px" width="auto">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="25px" width="auto">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="25px" width="auto">
