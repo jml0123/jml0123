@@ -14,7 +14,7 @@
 </p>
 
 
-### `⚡ Text(this.bio)`
+### `⚡ About me`
 <img align="right" src="https://media.giphy.com/media/3q3SUqPnxZGQpMNcjc/giphy.gif" alt="gradient" height="150px" width="auto"> 
 
 - I'm a full stack developer originally from the Philippines and currently based in NYC. 
@@ -23,7 +23,7 @@
 - I recently completed Thinkful's Software Engineering Flex Program
 - Currently working on <a href="https://heatwav.co">Heat.wav</a>, a location-based music discovery app for independent artists
 
-### ` 🧰  Text(this.toolkit_regular)`
+### ` 🧰  Some of the regular tools I work with`
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="25px" width="auto"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" height="25px" width="auto">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="25px" width="auto">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="25px" width="auto">
@@ -33,9 +33,9 @@
 
 
 
-### `🌱 Text(this.toolkit_in_progress)`
+### `🌱 Currently getting attuned with`
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" height="25px" width="auto"><img src="https://meterpreter.org/wp-content/uploads/2018/09/flutter.png" alt="Flutter" height="25px" width="auto">
 
-### `🆒 Text(this.fun_facts)`
+### `🆒 Cool facts`
 - I love to produce & engineer music. I've had my work placed in MTV's The Challenge (Season 31, Episode 2)
 
