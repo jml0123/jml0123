@@ -1,10 +1,11 @@
 
 <h2 align="left">Hi there! I'm <a href="https://miguel-lorenzo.dev">Miguel.</a></h2>
-<!-- Socials -->
+
+<!-- Socials
 ![Linkedin](https://img.shields.io/static/v1?labelColor=0e76a8&label=Linkedin&message=@jml123&color=0e76a8&style=flat&logo=linkedin&?link=https://linkedin.com/in/jml123)
 ![CodePen](https://img.shields.io/static/v1?labelColor=black&label=CodePen&message=@jml123&color=black&style=flat&logo=codepen&?link=https://codesandbox.io/u/jml0123)
 ![Spotify](https://img.shields.io/static/v1?labelColor=black&label=Tunes&message=Miguel%20Lorenzo&color=1DB954&style=flat&logo=spotify&?link=https://open.spotify.com/user/jmlorenzo96)
-<!-- End Socials -->
+End Socials -->
 
 <!--
 Here are some ideas to get you started:
