@@ -33,7 +33,7 @@
 
 
 
-#### 🌱 Currentyl getting attuned with
+#### 🌱 Currently getting attuned with
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" height="25px" width="auto"><img src="https://meterpreter.org/wp-content/uploads/2018/09/flutter.png" alt="Flutter" height="25px" width="auto">
 
 #### 🆒 Cool facts
