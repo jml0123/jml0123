@@ -1,6 +1,6 @@
 
 
-<h2 align="center">👋 Hi there!  I'm <a href="https://miguel-lorenzo.dev">Miguel</a></h2></span>
+<h2 align="center">Hi there, 👋  I'm <a href="https://miguel-lorenzo.dev">Miguel</a></h2></span>
 <p align="center">
   <a href="https://www.linkedin.com/in/jml123/" target="_blank">
     <img src="https://img.shields.io/static/v1?labelColor=0e76a8&label=Linkedin&message=@jml123&color=0e76a8&style=plastic&logo=linkedin" alt="LinkedIn">
@@ -23,7 +23,7 @@
 - I recently completed Thinkful's Software Engineering Flex Program
 - Currently working on <a href="https://heatwav.co">Heat.wav</a>, a location-based music discovery app for independent artists
 
-### ` 🧰  Some of the tools I work with`
+#### 🧰 Some tools I work with...
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="25px" width="auto"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" height="25px" width="auto">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="25px" width="auto">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="25px" width="auto">
@@ -33,9 +33,9 @@
 
 
 
-### `🌱 Getting attuned with`
+#### 🌱 Getting attuned with...
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" height="25px" width="auto"><img src="https://meterpreter.org/wp-content/uploads/2018/09/flutter.png" alt="Flutter" height="25px" width="auto">
 
-### `🆒 Cool facts`
+#### 🆒 Cool facts
 - I love to produce & engineer music. I've had my work placed in MTV's The Challenge (Season 31, Episode 2)
 
