@@ -1,6 +1,6 @@
 
 
-<h2 align="left">Hi there, 👋  I'm <a href="https://miguel-lorenzo.dev">Miguel</a></h2></span>
+<h2 align="left"> Hi there, 👋 I'm <a href="https://miguel-lorenzo.dev">Miguel</a></h2></span>
 <p align="left">
   <a href="https://www.linkedin.com/in/jml123/" target="_blank">
     <img src="https://img.shields.io/static/v1?labelColor=0e76a8&label=Linkedin&message=@jml123&color=0e76a8&style=plastic&logo=linkedin" alt="LinkedIn">
@@ -38,5 +38,5 @@
 
 #### 💻 Cool facts
 - I love to produce & engineer music. I've had my work placed in MTV's The Challenge (Season 31, Episode 2)
-- Aspiring gourmet home chef
+- Gourmet home cook
 
