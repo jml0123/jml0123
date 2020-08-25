@@ -18,7 +18,7 @@
 <img align="right" src="https://media.giphy.com/media/3q3SUqPnxZGQpMNcjc/giphy.gif" alt="gradient" height="150px" width="auto"> 
 
 - I'm a full stack developer originally from the Philippines and currently based in NYC. 
-- I've worked as a management consultant (strategy-side)
+- I've worked as a management consultant (Strategy-side)
 - NYU Class of 2019 with a B.A. in Sociology and a minor in Web Programming and Applications
 - I recently completed Thinkful's Software Engineering Flex Program
 - Currently working on <a href="https://heatwav.co">Heat.wav</a>, a location-based music discovery app for independent artists
@@ -36,6 +36,7 @@
 #### 🌱 Currently getting attuned with
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" height="25px" width="auto"><img src="https://meterpreter.org/wp-content/uploads/2018/09/flutter.png" alt="Flutter" height="25px" width="auto">
 
-#### 🆒 Cool facts
+#### 💻 Cool facts
 - I love to produce & engineer music. I've had my work placed in MTV's The Challenge (Season 31, Episode 2)
+- Aspiring gourmet home chef
 
