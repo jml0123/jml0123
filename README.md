@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/static/v1?labelColor=0e76a8&label=Linkedin&message=@jml123&color=0e76a8&style=plastic&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://codesandbox.io/u/jml0123" target="_blank">
-    <img src="https://img.shields.io/static/v1?labelColor=black&label=CodeSandbox&message=@jml123&color=black&style=plastic&logo=codesandbox" alt="Code Sandbox">
+    <img src="https://img.shields.io/static/v1?labelColor=black&label=CodeSandbox&message=@jml0123&color=black&style=plastic&logo=codesandbox" alt="Code Sandbox">
   </a>
   <a href="https://open.spotify.com/user/jmlorenzo96" target="_blank">
     <img src="https://img.shields.io/static/v1?labelColor=white&label=Spotify&message=Tunes&color=1DB954&style=plastic&logo=spotify" alt="Spotify">
