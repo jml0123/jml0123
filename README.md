@@ -23,7 +23,7 @@
 - I recently completed Thinkful's Software Engineering Flex Program
 - Currently working on <a href="https://heatwav.co">Heat.wav</a>, a location-based music discovery app for independent artists
 
-### ` 🧰  Some of the regular tools I work with`
+### ` 🧰  Some of the tools I work with`
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="25px" width="auto"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" height="25px" width="auto">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="25px" width="auto">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="25px" width="auto">
@@ -33,7 +33,7 @@
 
 
 
-### `🌱 Currently getting attuned with`
+### `🌱 Getting attuned with`
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" height="25px" width="auto"><img src="https://meterpreter.org/wp-content/uploads/2018/09/flutter.png" alt="Flutter" height="25px" width="auto">
 
 ### `🆒 Cool facts`
