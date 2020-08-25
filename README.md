@@ -23,7 +23,7 @@
 - I've worked as a management consultant (Strategy-side)
 - NYU Class of '19 (Sociology, Courant CS: Web Programming & Applications minor)
 - I recently completed Thinkful's Software Engineering Flex Program
-- Currently working on <a href="https://heatwav.co">Heat.wav</a>, a location-based music discovery app for independent artists
+- Currently working on <a href="https://heatwav.co">Heat.wav</a>, a location-based music discovery app for independent artists (YC '20 Startup School Participant)
 
 ![Miguel's github stats](https://github-readme-stats.vercel.app/api?username=jml0123&show_icons=true&theme=tokyonight)
 
