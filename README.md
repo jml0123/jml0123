@@ -29,7 +29,9 @@
 
 
 #### 🧰 Some tools I use on the regular
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="25px" width="auto"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" height="25px" width="auto">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="25px" width="auto"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" height="25px" width="auto">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" height="25px" width="auto">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="Angular" height="25px" width="auto">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="25px" width="auto">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="25px" width="auto">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" height="25px" width="auto">
@@ -37,7 +39,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25px" width="auto">
 
 #### 🌱 Currently getting attuned with
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" height="25px" width="auto"><img src="https://meterpreter.org/wp-content/uploads/2018/09/flutter.png" alt="Flutter" height="25px" width="auto">
+<img src="https://meterpreter.org/wp-content/uploads/2018/09/flutter.png" alt="Flutter" height="25px" width="auto">
 
 #### 💻 Cool facts
 - I love to produce & engineer music. I've had my work placed in MTV's The Challenge (Season 31, Episode 2)
