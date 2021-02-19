@@ -14,6 +14,9 @@
   <a href="https://bandcamp.com/miguel12345678" target="_blank">
     <img src="https://img.shields.io/static/v1?labelColor=darkgrey&label=bandcamp&message=More%20Tunes&color=629aa9&style=flat-square&logo=bandcamp" alt="Bandcamp">
   </a>
+    <a href="https://www.discogs.com/user/jsmglorenzo/collection" target="_blank">
+    <img src="https://img.shields.io/static/v1?labelColor=darkgrey&label=Discogs&message=Vinyl%20Collection&color=ffc116&style=flat-square&logo=discogs" alt="Discogs">
+  </a>
 </p>
 
 ### `⚡ About me`
