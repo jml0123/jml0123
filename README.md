@@ -24,7 +24,7 @@
 
 - I'm a full stack developer originally from the Philippines and currently based in NYC. 
 - I've worked as a management consultant (Strategy-side)
-- Currently working as a front-end engineer for a healthcare company
+- Currently working full-time as a front-end engineer for a healthcare company
 - Also working on <a href="https://heatwav.co">Heat.wav</a>, a location-based music discovery app for independent artists (YC Startup School '20 Participant)
 - NYU Class of '19 (Sociology, Courant CS: Web Programming & Applications minor)
 
