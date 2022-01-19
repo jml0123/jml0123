@@ -24,9 +24,9 @@
 
 - I'm a full stack developer originally from the Philippines and currently based in NYC. 
 - I've worked as a management consultant (Strategy-side)
+- Currently working as a Front-end developer for a healthcare company
+- Also working on <a href="https://heatwav.co">Heat.wav</a>, a location-based music discovery app for independent artists (YC Startup School '20 Participant)
 - NYU Class of '19 (Sociology, Courant CS: Web Programming & Applications minor)
-- I recently completed Thinkful's Software Engineering Flex Program
-- Currently working on <a href="https://heatwav.co">Heat.wav</a>, a location-based music discovery app for independent artists (YC Startup School '20 Participant)
 
 ![Miguel's github stats](https://github-readme-stats.vercel.app/api?username=jml0123&show_icons=true&theme=tokyonight)
 
