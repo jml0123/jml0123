@@ -45,6 +45,6 @@
 <img src="https://meterpreter.org/wp-content/uploads/2018/09/flutter.png" alt="Flutter" height="25px" width="auto">
 
 #### 💻 Cool facts
-- I love to produce & engineer music. I've had my work placed in MTV's The Challenge, and Awkwafina is Nora from Queens
+- I love to produce & engineer music. I've had my work placed in MTV's The Challenge, Daily Show with Trevor Noah, and Awkwafina is Nora from Queens
 - Gourmet home cook (*I like to think so*)
 
