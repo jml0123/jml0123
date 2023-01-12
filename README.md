@@ -28,8 +28,7 @@
 - Also working on <a href="https://heatwav.co">Heat.wav</a>, a location-based music discovery app for independent artists (YC Startup School '20 Participant)
 - NYU Class of '19 (Sociology, Courant CS: Web Programming & Applications minor)
 
-![Miguel's github stats](https://github-readme-stats.vercel.app/api?username=jml0123&show_icons=true&theme=tokyonight)
-
+![Miguel's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jml0123&show_icons=true&theme=tokyonight)
 
 #### 🧰 Some tools I use on the regular
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="25px" width="auto"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" height="25px" width="auto">
