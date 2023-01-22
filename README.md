@@ -2,21 +2,21 @@
 
 <h2 align="left"> hi there, 👋 i'm <a href="https://miguel-lorenzo.dev">Miguel</a></h2></span>
 <p align="left">
-  <a href="https://www.linkedin.com/in/jml123/" target="_blank">
+  <!--<a href="https://www.linkedin.com/in/jml123/" target="_blank">
     <img src="https://img.shields.io/static/v1?labelColor=0e76a8&label=Linkedin&message=@jml123&color=0e76a8&style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
+  </a>-->
   <a href="https://codesandbox.io/u/jml0123" target="_blank">
     <img src="https://img.shields.io/static/v1?labelColor=black&label=CodeSandbox&message=@jml0123&color=black&style=flat-square&logo=codesandbox" alt="Code Sandbox">
   </a>
   <a href="https://open.spotify.com/user/jmlorenzo96" target="_blank">
     <img src="https://img.shields.io/static/v1?labelColor=0f0f0f&label=Spotify&message=Tunes&color=1DB954&style=flat-square&logo=spotify" alt="Spotify">
   </a>
-  <a href="https://bandcamp.com/miguel12345678" target="_blank">
+  <a href="https://bandcamp.com/plygid" target="_blank">
     <img src="https://img.shields.io/static/v1?labelColor=darkgrey&label=bandcamp&message=More%20Tunes&color=629aa9&style=flat-square&logo=bandcamp" alt="Bandcamp">
-  </a>
+  <!--</a>
     <a href="https://www.discogs.com/user/jsmglorenzo/collection" target="_blank">
     <img src="https://img.shields.io/static/v1?labelColor=darkgrey&label=Discogs&message=Vinyl%20Collection&color=ffc116&style=flat-square&logo=discogs" alt="Discogs">
-  </a>
+  </a>-->
 </p>
 
 ### `⚡ About me`
