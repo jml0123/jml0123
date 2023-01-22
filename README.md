@@ -1,6 +1,6 @@
 
 
-<h2 align="left"> Hi there, 👋 I'm <a href="https://miguel-lorenzo.dev">Miguel</a></h2></span>
+<h2 align="left"> hi there, 👋 i'm <a href="https://miguel-lorenzo.dev">Miguel</a></h2></span>
 <p align="left">
   <a href="https://www.linkedin.com/in/jml123/" target="_blank">
     <img src="https://img.shields.io/static/v1?labelColor=0e76a8&label=Linkedin&message=@jml123&color=0e76a8&style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -22,11 +22,10 @@
 ### `⚡ About me`
 <img align="right" src="https://media.giphy.com/media/3q3SUqPnxZGQpMNcjc/giphy.gif" alt="gradient" height="150px" width="auto"> 
 
-- I'm a full stack developer originally from the Philippines and currently based in NYC. 
-- I've worked as a management consultant (Strategy-side)
-- Currently working as an engineer for a boundary-pushing fitness-gaming startup called Cadoo
-- Also working on <a href="https://heatwav.co">Heat.wav</a>, a location-based music discovery app for independent artists (YC Startup School '20 Participant)
-- NYU Class of '19 (Sociology, Courant CS: Web Programming & Applications minor)
+- i'm a full stack developer originally from the Philippines and currently based in Brooklyn. 
+- i've worked as a management consultant for a small strategy-focused firm
+- currently working as an engineer for a boundary-pushing fitness-gaming startup called Cadoo
+- also working on <a href="https://heatwav.co">Heat.wav</a>, a location-based music discovery app for independent artists
 
 ![Miguel's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jml0123&show_icons=true&theme=tokyonight)
 
