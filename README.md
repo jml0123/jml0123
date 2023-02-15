@@ -43,6 +43,6 @@
 <img src="https://meterpreter.org/wp-content/uploads/2018/09/flutter.png" alt="Flutter" height="25px" width="auto">
 
 #### 💻 Cool facts
-- I love to produce & engineer music
-- Gourmet home cook (*trying to be*)
+- i also produce & dj electronic music (here's my <a href="https://soundcloud.com/plygid" target="_blank">soundcloud</a> :-) )
+- gourmet home cook (*trying to be*)
 
