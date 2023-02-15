@@ -11,7 +11,7 @@
   <a href="https://open.spotify.com/user/jmlorenzo96" target="_blank">
     <img src="https://img.shields.io/static/v1?labelColor=0f0f0f&label=Spotify&message=Tunes&color=1DB954&style=flat-square&logo=spotify" alt="Spotify">
   </a>
-  <a href="https://bandcamp.com/plygid" target="_blank">
+  <a href="https://bandcamp.com/miguel12345678" target="_blank">
     <img src="https://img.shields.io/static/v1?labelColor=darkgrey&label=bandcamp&message=More%20Tunes&color=629aa9&style=flat-square&logo=bandcamp" alt="Bandcamp">
   <!--</a>
     <a href="https://www.discogs.com/user/jsmglorenzo/collection" target="_blank">
