@@ -27,7 +27,7 @@
 - currently working as an engineer for a boundary-pushing fitness-gaming startup called Cadoo
 - also working on <a href="https://heatwav.co">Heat.wav</a>, a location-based music discovery app for independent artists
 
-![Miguel's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jml0123&show_icons=true&theme=tokyonight)
+<!-- ![Miguel's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jml0123&show_icons=true&theme=tokyonight) -->
 
 #### 🧰 Some tools I use on the regular
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="25px" width="auto"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" height="25px" width="auto">
