@@ -16,7 +16,7 @@
   </a>-->
 </p>
 
-<pre>Check out this cool website below . . .
+<pre>
 <a href="https://miks.cafe" target="_blank">https://miks.cafe</a>
 </pre>
 <!--#### 🌱 Currently getting attuned with
